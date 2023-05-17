@@ -15,7 +15,7 @@ My research interests are about Optimization, Optimal Control, Hamilton-Jacobi-B
 
 ## My background
 
-I did master study in [Master in Optimization](https://www.master-in-optimization.fr/),  a joint program between [Université Paris-Saclay](https://www.imo.universite-paris-saclay.fr/?lang=fr) and [Institut Polytechnique de Paris](https://www.ip-paris.fr/en), and [Master2 MMMEF](https://www.mmmef.fr/) in [University Paris-1](https://www.pantheonsorbonne.fr/), with specialization in Optimisation. Priori to that, I obtained my bachelor degree in Automation from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
+I did master study in [Master in Optimization](https://www.master-in-optimization.fr/),  a joint program between [Université Paris-Saclay](https://www.imo.universite-paris-saclay.fr/?lang=fr) and [Institut Polytechnique de Paris](https://www.ip-paris.fr/en), and [Master MMMEF](https://www.mmmef.fr/) in [University Paris-1](https://www.pantheonsorbonne.fr/), with specialization in Optimisation. Priori to that, I obtained my bachelor degree in Automation from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
 
 
