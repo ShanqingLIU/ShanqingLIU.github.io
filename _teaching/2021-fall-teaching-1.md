@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
 venue: "École Polytechnique"
-date: 2020,2021,2022
+date: 
 location: "Palaiseau, France"
 ---
 
