@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liding Xu"
+title                    : "Shanqing LIU"
 title_separator          : "-"
-name                     : &name "Liding Xu"
-description              : &description "Liding Xu's Personal Academic Website"
+name                     : &name "Shanqing LIU"
+description              : &description "Shanqing LIU's Personal Academic Website"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -85,14 +85,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liding Xu"
-  avatar           : "biophoto.jpg"
-  bio              : "Ph.D student at LIX, École Polytechnique"
+  name             : "Shanqing LIU"
+  avatar           : ""
+  bio              : "Ph.D student at CMAP, École Polytechnique and INRIA"
   location         : "Palaiseau, France"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=g_XH1rUAAAAJ&hl=en"
-  email            :  "liding.xu@polytechnique.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=8bAHuDEAAAAJ"
+  email            :  "shanqing.liu@polytechnique.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,14 +101,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lidingxu"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            :  "https://orcid.org/0000-0002-0286-1109"
+  linkedin         : "https://www.linkedin.com/in/shanqing-liu-525052164/"
+  orcid            :  
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
