@@ -35,15 +35,12 @@ Publications
 ## Conferences and Workshops
 
   
-Talks
+Talks and Posters
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+- 25th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2022), Bayreuth, Germany, 13 Sep. 2022 ;
+- Jourées SMAI MODE 2022, Limoges, France, 01 Jun. 2022;
+- PGMO Days 2021, Palaiseau, France, 30.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
