@@ -41,9 +41,10 @@ redirect_from:
   
 ## Talks and Posters
 
-- 25th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2022), Bayreuth, Germany, 13 Sep. 2022 ;
-- Jourées SMAI MODE 2022, Limoges, France, 01 Jun. 2022;
-- PGMO Days 2021, Palaiseau, France, 30 Nov. 2021.
+- 25th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2022), Bayreuth, Germany, Sep. 2022 ;
+- Journée des Doctorants 2A, CMAP, École Polytechnique, Palaiseau, France, June 2020.
+- Journées SMAI MODE 2022, Limoges, France, Jun. 2022;
+- PGMO Days 2021, Palaiseau, France, Nov. 2021.
   
 
 
