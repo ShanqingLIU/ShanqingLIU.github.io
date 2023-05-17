@@ -25,15 +25,14 @@ Publications
 
 ## Preprints and Reports
 
-{% bibliography -q @unpublished @techreport %}
+
 
 ## Journal Articles
 
-{% bibliography -q @article %}
+
 
 ## Conferences and Workshops
 
-{% bibliography -q @inproceedings %}
   
 Talks
 ======
