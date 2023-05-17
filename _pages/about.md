@@ -11,7 +11,7 @@ redirect_from:
 
 I am a third-year Ph.D student at [Centre de Mathématiques Appliquées (CMAP), École Polytechnique](https://portail.polytechnique.edu/cmap/fr/page-daccueil) and [INRIA, Saclay-Il-de France](https://www.inria.fr/fr/centre-inria-de-saclay), where I am part of [TROPICAL](https://team.inria.fr/tropical/) Team. I am supervised by [Marianne Akian](http://www.cmap.polytechnique.fr/~akian/) and [Stéphane Gaubert](http://www.cmap.polytechnique.fr/~gaubert/).
 
-My research interests are about Optimization, Optimal Control, Hamilton-Jacobi-Bellman Equations and Numerical Methods.
+My research interests are about Optimization, Optimal Control, Hamilton-Jacobi-Bellman Equations and Curse-of-dimensionality Reduced Numerical Methods.
 
 ## My background
 
