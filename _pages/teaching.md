@@ -5,9 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Publications and Preprints
+Academic Year 2022-2023
+======
+* MAA103-Discrete Mathematics, Bachelor 1A, École Polytechnique. Teaching Assistant (Teacher: Anne de Bounard)
 
-* Marianne Akian, Stéphane Gaubert and Shanqing Liu. An Adaptive Multi-Level Max-Plus Method for Deterministic Optimal Control Problems, 2023. arXiv preprint [arXiv:2304.10342](https://arxiv.org/pdf/2304.10342.pdf).
-* Marianne Akian, Stéphane Gaubert and Shanqing Liu. A Multi-Level Fast-Marching Method for The Minimum Time Problem, 2023. arXiv preprint [arXiv:2303.10705](https://arxiv.org/pdf/2303.10705.pdf).
-* Marianne Akian, Stéphane Gaubert and Shanqing Liu. A Multi-Level Fast-Marching Method, in Proc. of the 25th MTNS, 2022 [Hal](https://inria.hal.science/hal-03944192/document).
+Academic Year 2022-2023
+======
+* MAA103-Discrete Mathematics, Bachelor 1A, École Polytechnique. Teaching Assistant (Teacher: Francois Alouges)
+
+Academic Year 2022-2023
+======
+* MAA103-Discrete Mathematics, Bachelor 1A, École Polytechnique. Teaching Assistant (Teacher: Francois Alouges)
+* MAA107-Mathematical Modeling, Bachelor 1A, École Polytechnique Teaching Assistant and supervision of two group projects (Teacher: Bansaye Vincent and Thibaut Mastrolia)
 
