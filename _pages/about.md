@@ -9,7 +9,7 @@ redirect_from:
 --- 
 
 
-I am a third-year Ph.D student at [CAMP, l\'École Polytechnique (LIX)](https://www.lix.polytechnique.fr/), where I am part of [OptimiX group](https://optimix.cnrs.fr/). I am fortunate to have work with: [Claudia D\'Ambrosio](http://www.lix.polytechnique.fr/Labo/Claudia.D%27Ambrosio/), [Leo Liberti](https://www.lix.polytechnique.fr/~liberti/) and [Sonia Vanier](http://www.lix.polytechnique.fr/Labo/Sonia.VANIER). 
+I am a third-year Ph.D student at [Centre de Mathématiques Appliquées (CMAP), École Polytechnique](https://portail.polytechnique.edu/cmap/fr/page-daccueil) and [INRIA, Saclay-Il-de France](https://www.inria.fr/fr/centre-inria-de-saclay), where I am part of [TROPICAL](https://team.inria.fr/tropical/) Team. I am supervised by [Marianne Akian](http://www.cmap.polytechnique.fr/~akian/) and [Stéphane Gaubert](http://www.cmap.polytechnique.fr/~gaubert/).
 
 I study mixed integer linear and nonlinear programming, with a special interest in convexification of nonconvex set. Currenly, I am working on the following topics: 
 - Decomposition methods;
