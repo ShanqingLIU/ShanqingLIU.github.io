@@ -46,14 +46,18 @@ Talks and Posters
 Teaching
 ======
 * Year 2022-2023
-  - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique
+  - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique. 
+
     Teacher: Anne de Bounard
 * Year 2021-2022
-  - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique
+  - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique.
+
     Teacher: Francois Alouges
 * Year 2020-2021
-  - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique
+  - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique.
+
     Teacher: Francois Alouges
-  - Mathematical Modeling (MAA107), Bachelor 1A, École Polytechnique
+  - Mathematical Modeling (MAA107), Bachelor 1A, École Polytechnique.
+  
     Teacher: Bansaye Vincent and Thibaut Mastrolia 
 
