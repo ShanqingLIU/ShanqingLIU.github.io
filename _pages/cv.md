@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.** in Mathematical Programming, École Polytechnique, 2023 (expected)
+* **Ph.D.** in Applied Mathematics, École Polytechnique, 2023 (expected)
 * **M.S.** in Optimization,  Université Paris-Saclay & Institut Polytechnique de Paris, 2020
-* **B.S.** in Machine Intelligence, Peking University, 2018
+* **M.S.** in MMMEF, Université Paris 1 Panthéon-Sorbonne, 2019
+* **B.S.** in Automation, Shanghai Jiao Tong University, 2018
   
 Skills
 ======
-* Programming languages: C/C++, Matlab, Python, Julia
+* Programming languages: C/C++, Matlab, Python
 * Mathematical programming softwares: SCIP, CPLEX
 
 Publications
