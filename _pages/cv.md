@@ -12,7 +12,6 @@ Personal
 ======
 * Date and Place of Birth: 26th September 1995 in Jinan
 * Nationality: Chinese
-* Personal Address: 16 Avenue Émile Baudot, 91120 Palaiseau
 * Phone and Email: +33 7 88 75 04 38; shanqing.liu@polytechnique.edu
 * Affiliation: CMAP École Polytechnique and INRIA
 
@@ -22,7 +21,7 @@ Education
 * **Ph.D.** in Applied Mathematics, École Polytechnique, 2023 (expected)
 * **M.S.** in Optimization,  Université Paris-Saclay & Institut Polytechnique de Paris, 2020
 * **M.S.** in MMMEF, Université Paris 1 Panthéon-Sorbonne, 2019
-* **B.S.** in Automation, Shanghai Jiao Tong University, 2018
+* **B.S.** in Automation, Shanghai Jiao Tong University, 2017
   
 Skills
 ======
@@ -32,7 +31,7 @@ Skills
 
 Previous Internships
 ======
-* Highway Hierarchies for HJB PDEs, (6 months)@CMAP École Polytechnique, 2020
+* Highway Hierarchies for HJB PDEs, (6 months)@CMAP École Polytechnique and INRIA, 2020
 * A Deep Learning Method for PDEs and Stochastic Control Problems, (6 months)@CEREMADE Université Paris-Dauphine IX, 2019
 * Distributed Information System for Cross-Platform Controllers, (6 months)@IWNCC Shanghai Jiao Tong University, 2017
 
@@ -46,4 +45,15 @@ Talks and Posters
   
 Teaching
 ======
+* Year 2022-2023
+  - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique
+    Teacher: Anne de Bounard
+* Year 2021-2022
+  - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique
+    Teacher: Francois Alouges
+* Year 2020-2021
+  - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique
+    Teacher: Francois Alouges
+  - Mathematical Modeling (MAA107), Bachelor 1A, École Polytechnique
+    Teacher: Bansaye Vincent and Thibaut Mastrolia 
 
