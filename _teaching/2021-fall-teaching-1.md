@@ -1,13 +1,11 @@
 ---
-title: "CSE201 - Object-oriented Programming in C++"
+title: "MAA103 - Discrete Mathematics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
-venue: "École Polytechnique, DIX"
-date: 2021-09-06
+venue: "École Polytechnique"
+date: 2020,2021,2022
 location: "Palaiseau, France"
 ---
 
-The goal of CSE201 is to introduce students to the C++ programming language, and the object-based view of software design. C++ is one of the most widely-used programming languages in the world, especially for system-level programming. Much of its power derives from its use of objects, packets of data and functionality that model things and concepts in the real world. 
-
-I am a teaching assistant.
+Discrete Mathematics MAA 103 (Year 1) explores the world of discrete mathematics which is a fundamental concept in many different areas of science and advanced mathematics. After a short review of some basic concepts (functions, induction, cardinality) the course goes on the exploration of new topics (basic notions in number and groups theory, combinatorics, permutations). In a second part, we introduce probability theory, first on finite sets, and then on countable ones.  
