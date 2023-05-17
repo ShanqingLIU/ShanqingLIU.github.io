@@ -23,7 +23,7 @@ Education
 * **M.S.** in MMMEF, Université Paris 1 Panthéon-Sorbonne, 2019
 * **B.S.** in Automation, Shanghai Jiao Tong University, 2017
   
-Skills
+Technical Skills
 ======
 * Programming languages: C/C++, Matlab, Python
 * Design and Simulation Tools: Visual Studio, R, Scilab, CPLEX
@@ -47,17 +47,13 @@ Teaching
 ======
 * Year 2022-2023
   - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique. 
-
-    Teacher: Anne de Bounard
+    (TD. Teacher: Anne de Bounard)
 * Year 2021-2022
   - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique.
-
-    Teacher: Francois Alouges
+   (TD. Teacher: Francois Alouges)
 * Year 2020-2021
   - Discrete Mathematics (MAA103), Bachelor 1A, École Polytechnique.
-
-    Teacher: Francois Alouges
+    (TD. Teacher: Francois Alouges)
   - Mathematical Modeling (MAA107), Bachelor 1A, École Polytechnique.
-  
-    Teacher: Bansaye Vincent and Thibaut Mastrolia 
+    (TD. Teacher: Bansaye Vincent and Thibaut Mastrolia)
 
