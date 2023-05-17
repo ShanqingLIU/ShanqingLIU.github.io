@@ -2,7 +2,7 @@
 title: "MAA103 - Discrete Mathematics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-fall-teaching-1
+permalink: 
 venue: "École Polytechnique"
 date: 
 location: "Palaiseau, France"

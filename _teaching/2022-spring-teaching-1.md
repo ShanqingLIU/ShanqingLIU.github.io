@@ -2,7 +2,7 @@
 title: "MAA107 - Mathematical Modeling"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-spring-teaching-1
+permalink: 
 venue: "École Polytechnique"
 date: 2020
 location: "Palaiseau, France"
