@@ -7,7 +7,7 @@ author_profile: true
 
 ## Academic Year 2022-2023
 
-* MAA103-Discrete Mathematics, Bachelor 1A, École Polytechnique. Teaching Assistant (Teacher: Anne de Bounard)
+* MAA103-Discrete Mathematics, Bachelor 1A, École Polytechnique. Teaching Assistant (Teacher: Anne de Bouard)
 
 ## Academic Year 2021-2022
 
