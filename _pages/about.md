@@ -28,7 +28,7 @@ My research interests are about Optimization, Optimal Control, Hamilton-Jacobi-B
 ## Education
 
 * **Ph.D.** in Applied Mathematics, École Polytechnique, Dec. 2023 
-* **M.S.** in Optimization,  Université Paris-Saclay & Institut Polytechnique de Paris, Sep. 2020
+* **M.S.** in Optimization, Université Paris-Saclay & Institut Polytechnique de Paris, Sep. 2020
 * **M.S.** in MMMEF, Université Paris 1 Panthéon-Sorbonne, Sep. 2019
 * **B.S.** in Automation, Shanghai Jiao Tong University, Jul. 2017
 
