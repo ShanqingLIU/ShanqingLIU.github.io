@@ -20,7 +20,7 @@ My research interests are about Optimization, Optimal Control, Hamilton-Jacobi-B
 
 ## Personal
 
-* Nationality: Chinese
+
 * Phone and Email: +1 401-378-1752; shanqing_liu@brown.edu
 * Affiliation: Division of Applied Mathematics, Brown University
 
