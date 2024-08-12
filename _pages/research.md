@@ -7,9 +7,11 @@ author_profile: true
 
 ## Publications and Preprints
 
-* Marianne Akian, Stéphane Gaubert and Shanqing Liu. An Adaptive Multi-Level Max-Plus Method for Deterministic Optimal Control Problems, in IFAC W 2023. arXiv preprint [arXiv:2304.10342](https://arxiv.org/pdf/2304.10342.pdf).
-* Marianne Akian, Stéphane Gaubert and Shanqing Liu. A Multi-Level Fast-Marching Method for The Minimum Time Problem, 2023. arXiv preprint [arXiv:2303.10705](https://arxiv.org/pdf/2303.10705.pdf).
-* Marianne Akian, Stéphane Gaubert and Shanqing Liu. A Multi-Level Fast-Marching Method, in Proc. of the 25th MTNS, 2022 [Hal-03944192](https://inria.hal.science/hal-03944192/document).
+* Z. Zhang, C. Wang S. Liu, J. Darbon and G. Karniadakis. A time-dependent symplectic network for non-convex path planning problems with linear and nonlinear dynamics, 2024. arXiv preprint [arXiv:2408.03785](https://arxiv.org/pdf/2408.03785).
+* M. Akian and S. Liu. Convergence and Error Estimates of A Semi-Lagrangian scheme for the Minimum Time Problem, 2024. arXiv preprint [arXiv:2407.06969](https://arxiv.org/pdf/2407.06969).
+* M. Akian, S. Gaubert and S. Liu. An Adaptive Multi-Level Max-Plus Method for Deterministic Optimal Control Problems, in Proc. of IFAC World Congress, 2023. arXiv preprint [arXiv:2304.10342](https://arxiv.org/pdf/2304.10342.pdf).
+* M. Akian, S. Gaubert and S. Liu. A Multi-Level Fast-Marching Method for The Minimum Time Problem, to appeared in SIAM Journal on Control and Optimization. arXiv preprint [arXiv:2303.10705](https://arxiv.org/pdf/2303.10705.pdf).
+* M. Akian, S. Gaubert and S. Liu. A Multi-Level Fast-Marching Method, in Proc. of the 25th MTNS, 2022 [Hal-03944192](https://inria.hal.science/hal-03944192/document).
 
 
 ## Presentations
