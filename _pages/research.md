@@ -14,8 +14,10 @@ author_profile: true
 
 ## Talks and Posters
 
-- (Upcoming) SIAM Conference on Control and Its Applications (CT23), Philadelphia, USA, Jul. 2023;
-- (Upcoming) IFAC World Congress 2023, Yokohama, Japan, Jul. 2023;
+## Presentations
+
+- SIAM Conference on Control and Its Application (CT23), Philadelphia, USA, Jul. 2023
+- 22nd IFAC World Congress, Yokohama, Japan, Jul. 2023
 - 25th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2022), Bayreuth, Germany, Sep. 2022;
 - Journée des Doctorants 2A, CMAP, École Polytechnique, Palaiseau, France, Jun. 2022;
 - Journées SMAI MODE 2022, Limoges, France, Jun. 2022;

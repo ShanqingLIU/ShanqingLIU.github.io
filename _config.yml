@@ -87,12 +87,12 @@ analytics:
 author:
   name             : "Shanqing LIU"
   avatar           : "biophoto.jpg"
-  bio              : "Ph.D student at CMAP, École Polytechnique and INRIA"
-  location         : "Palaiseau, France"
+  bio              : "Postdoctoral researcher at Division of Applied Mathematics Brown University"
+  location         : "Providence, RI, USA"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8bAHuDEAAAAJ"
-  email            :  "shanqing.liu@polytechnique.edu"
+  email            :  "shanqing_liu@brown.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
