@@ -1,5 +1,9 @@
 preprint:
 
+  - title: "Structure-Preserving Spectral Dynamic Programming on Compact Lie Groups" 
+    authors: Shanqing Liu, Yang Qi
+    arxiv: https://arxiv.org/pdf/2607.20854
+
   - title: "A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems" 
     authors: Alan John Varghese, Shanqing Liu, Paula Chen, Yaochen Zhu, Jerome Darbon, George Em Karniadakis
     arxiv: https://arxiv.org/abs/2605.14332
@@ -15,10 +19,6 @@ preprint:
   - title: "A Neural-Operator Preconditioned Newton Method for Accelerated Nonlinear Solvers"
     authors: Youngkyu Lee, Shanqing Liu, Jerome Darbon, George Em Karniadakis
     arxiv: https://arxiv.org/pdf/2511.08811
-
-  - title: "Automatic Discovery of Optimal Meta-solvers via Multi-objective Optimization"
-    authors: Youngkyu Lee, Shanqing Liu, Jerome Darbon, George Em Karniadakis
-    arxiv: https://arxiv.org/abs/2412.00063
 
   - title: "Convergence and Error Estimates of A Semi-Lagrangian scheme for the Minimum Time Problem"
     authors: Marianne Akian, Shanqing Liu
