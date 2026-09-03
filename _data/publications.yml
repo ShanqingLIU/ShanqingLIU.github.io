@@ -1,5 +1,9 @@
 preprint:
 
+  - title: "Singularities in Multi-Objective Optimization and their Crossing during Continuation" 
+    authors: Arjun Manoj, Michail E Kavousanakis, Shanqing Liu, Ioannis G Kevrekidis
+    arxiv: https://arxiv.org/pdf/2607.02803
+  
   - title: "Structure-Preserving Spectral Dynamic Programming on Compact Lie Groups" 
     authors: Shanqing Liu, Yang Qi
     arxiv: https://arxiv.org/pdf/2607.20854
